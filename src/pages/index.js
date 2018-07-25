@@ -27,8 +27,8 @@ const IndexPage = () => (
       <li>Alcohol</li>
       <li>Magic</li>
     </ul>
-    <h2>Repellant</h2>
-    <p>Sexy Awakening understands that super-liking a person has nothing to do with meeting people and usually doesn't lead to a good connection, so we don't sell those. We support conscious behavior, so instead, we allow you to <b>buy digital bottles of repellant</b>! Please use it to spray anyone who chooses <b>not to accept your noes</b>, that you sense is acting out of integrity with our service, or is persistantly displaying behavior that is unacceptable to you and persisting in spite of your communication. Sometimes <b>your hard no is</b> what it takes to provide an <b>opportunity for personal growth</b>. We make those fun to deliver. You can also use it if their initial approach was really that lacking. When someone has been sprayed enough <b>everyone else they talk to</b> for a while <b>will know</b>. Eww.</p>
+    <h2>Repellent</h2>
+    <p>Sexy Awakening understands that super-liking a person has nothing to do with meeting people and usually doesn't lead to a good connection, so we don't sell those. We support conscious behavior, so instead, we allow you to <b>buy digital bottles of repellent</b>! Please use it to spray anyone who chooses <b>not to accept your noes</b>, that you sense is acting out of integrity with our service, or is persistantly displaying behavior that is unacceptable to you and persisting in spite of your communication. Sometimes <b>your hard no is</b> what it takes to provide an <b>opportunity for personal growth</b>. We make those fun to deliver. You can also use it if their initial approach was really that lacking. When someone has been sprayed enough <b>everyone else they talk to</b> for a while <b>will know</b>. Eww.</p>
     <h2>Download</h2>
     <p>Coming Soon for iOS & Android.</p>
     <p>Know your self, and swipe with intention.</p>
