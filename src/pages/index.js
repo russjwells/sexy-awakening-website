@@ -4,10 +4,13 @@ import Link from 'gatsby-link'
 const IndexPage = () => (
   <div>
     <p>Sexy Awakening is Earth's first conscious sexuality and connection portal. We believe that relationships are a <b>transformational experience</b> and we exist to facilitate <b>evolutionary connections</b>. We encourage honest <b>up-front communication and radical self-expression</b> on our platform. Sexy Awakening is a place to connect with beings of higher consciousness. A place to express, learn, and play with your sexuality, desires, and social ability. We are a sex positive, inclusive space. We understand sexuality to be fluid, gender as nonbinary, and everyone as sacred.</p>
+    <p>
+      <a href="http://sexyawakening.launchrock.com">email list</a> | <a href="http://app.sexyawakening.com">web app</a>
+    </p>
     <h2>Swipe with Intention</h2>
     <p>Our first game is a lot like something you're already used to: Swiping for matches... but now you choose between sex, love, friendship, and passing. <b>Swipe right for sex, up for romance, left for friendship, and down to pass.</b> If your match swipes on you with the same intention, then voila, you're connected and can <b>begin with a mutual understanding</b>. Otherwise, maybe you'll swipe on them again one day. Enjoy higher consciousness, more fun, and better connections on Sexy Awakening.</p>
     <h2>Membership</h2>
-    <p>Sexy Awakeing is free, but <b>unlimited swipes are  $11 per month</b>. We encourage users who are serious about connecting to subscribe, and there are additional options for those who want to support Sexy Awakening. You must be 18 or older to join.</p>
+    <p>Sexy Awakening is <b>free to join</b>, but we are offering Sexy Awakening Unlimited membership subscriptions for $11 per month. You get unlimited swiping and the ability to filter out guests. We encourage users who are serious about connecting to subscribe. There is a higher end gold option that comes with a luxurious profile, and there are additional options for those who want to support Sexy Awakening. You are able to filter out users below your tier. You must be 18 or older to join.</p>
     <h2>Interests</h2>
     <p>We have a curated selection of interests available to help those souls who are seeking something specific in their connections. Please let us know if there's something you'd like to see added to this list.</p>
     <ul>

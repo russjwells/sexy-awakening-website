@@ -15,11 +15,12 @@ const Footer = () => (
         padding: '1.45rem 1.0875rem',
       }}
     >
-      <p>Sexy Awakening &copy; 2018 | &nbsp;
+      <p style={{color:'white'}}>Sexy Awakening &copy; 2018 | &nbsp;
       <Link to="/guidelines/">Guidelines</Link> | &nbsp;
       <Link to="/privacy-policy/">Privacy Policy</Link> | &nbsp;
       <Link to="/terms-of-service/">Terms of Service</Link> | &nbsp;
-      <Link to="/careers/">Careers</Link>
+      <Link to="/careers/">Careers</Link> | &nbsp;
+      <Link to="/contact/">Contact</Link>
       </p>
     </div>
   </div>

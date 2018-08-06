@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const Header = ({ siteTitle }) => (
+const Header = ({ siteTitle }, { tagLine }) => (
   <div
     style={{
       background: 'white',
@@ -26,6 +26,7 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+      <h3>{tagLine}</h3>
     </div>
   </div>
 )
