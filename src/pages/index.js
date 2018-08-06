@@ -5,7 +5,7 @@ const IndexPage = () => (
   <div>
     <p>Sexy Awakening is Earth's first conscious sexuality and connection portal. We believe that relationships are a <b>transformational experience</b> and we exist to facilitate <b>evolutionary connections</b>. We encourage honest <b>up-front communication and radical self-expression</b> on our platform. Sexy Awakening is a place to connect with beings of higher consciousness. A place to express, learn, and play with your sexuality, desires, and social ability. We are a sex positive, inclusive space. We understand sexuality to be fluid, gender as nonbinary, and everyone as sacred.</p>
     <p>
-      <a href="http://sexyawakening.launchrock.com">email list</a> | <a href="http://app.sexyawakening.com">web app</a>
+      <a href="http://sexyawakening.launchrock.com">email list</a> | <a href="https://app.sexyawakening.com">web app</a>
     </p>
     <h2>Swipe with Intention</h2>
     <p>Our first game is a lot like something you're already used to: Swiping for matches... but now you choose between sex, love, friendship, and passing. <b>Swipe right for sex, up for romance, left for friendship, and down to pass.</b> If your match swipes on you with the same intention, then voila, you're connected and can <b>begin with a mutual understanding</b>. Otherwise, maybe you'll swipe on them again one day. Enjoy higher consciousness, more fun, and better connections on Sexy Awakening.</p>
