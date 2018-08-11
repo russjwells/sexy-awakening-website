@@ -8,9 +8,9 @@ const IndexPage = () => (
     <p>Swipe right for sex, up for romance, left for friendship, and down to pass. If someone swipes on you with the same intention, then voila, you're connected and can <b>begin chatting with a mutual understanding</b>. Enjoy higher consciousness, a culture of consent, and intentional connections on Sexy Awakening.</p>
     <h2>Membership</h2>
     <p>Sexy Awakening is <b>free to join</b>. Unlimited memberships will be available soon for $11 per month. You must be 18 or older to create an account.</p>
-    <h2>Download</h2>
-    <p>Coming Soon on iOS, Android, and the Web.</p>
+    <h2>How to Join</h2>
     <p>Sexy Awakening is in Closed Beta. Request an invite <Link to="/beta/">now</Link>.</p>
+    <p>Available for iOS, Android, and the web.</p>
     <h2>Conscious Culture</h2>
     <p>Sexy Awakening encourages a culture of immediacy, sexuality, play, exploration, intuition, and transformation, grounded in a deeply rooted sense of autonomy, respect, and consent.</p>
     <p>Please take a look at our <Link to="/guidelines/">guidelines</Link> before connecting.</p>
