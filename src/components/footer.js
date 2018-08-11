@@ -5,7 +5,7 @@ const Footer = () => (
   <div
     style={{
       background: '#e54560',
-      marginBottom: '1.45rem',
+      marginBottom: '0',
     }}
   >
     <div
@@ -16,11 +16,11 @@ const Footer = () => (
       }}
     >
       <p style={{color:'white'}}>Sexy Awakening &copy; 2018 | &nbsp;
-      <Link to="/guidelines/">Guidelines</Link> | &nbsp;
-      <Link to="/privacy-policy/">Privacy Policy</Link> | &nbsp;
-      <Link to="/terms-of-service/">Terms of Service</Link> | &nbsp;
-      <Link to="/careers/">Careers</Link> | &nbsp;
-      <Link to="/contact/">Contact</Link>
+      <Link to="/guidelines/" style={{color:'white', textDecoration:'none'}}>Guidelines</Link> | &nbsp;
+      <Link to="/privacy-policy/" style={{color:'white', textDecoration:'none'}}>Privacy Policy</Link> | &nbsp;
+      <Link to="/terms-of-service/" style={{color:'white', textDecoration:'none'}}>Terms of Service</Link> | &nbsp;
+      <Link to="/careers/" style={{color:'white', textDecoration:'none'}}>Careers</Link> | &nbsp;
+      <Link to="/contact/" style={{color:'white', textDecoration:'none'}}>Contact</Link>
       </p>
     </div>
   </div>
