@@ -11,8 +11,8 @@ const IndexPage = () => (
     <h2>Membership</h2>
     <p>Sexy Awakening is <b>free to join</b>. Unlimited memberships will be available soon for $11 per month. You must be 18 or older to create an account.</p>
     <h2>How to Join</h2>
-    <p>Sexy Awakening is in Closed Beta. Request an invite <Link to="/beta/">now</Link>.</p>
-    <p>Available for iOS, Android, and the web.</p>
+    <p>Sexy Awakening is in Open Beta: iPhone users download the app through <a href="https://testflight.apple.com/join/A52QNb4b">Test Flight</a>. Android users can download the App in the <a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store.</a></p>
+    <p>Available for iOS, Android, and soon the web.</p>
     <h2>Conscious Culture</h2>
     <p>Sexy Awakening encourages a culture of immediacy, sexuality, play, exploration, intuition, and transformation, grounded in a deeply rooted sense of autonomy, respect, and consent.</p>
     <p>Please take a look at our <Link to="/guidelines/">guidelines</Link> before connecting.</p>
