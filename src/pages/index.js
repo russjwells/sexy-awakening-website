@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <p>Swipe with intention! Sexy Awakening is Earth's first conscious sexuality and relationship portal. It's best way to meet new romantic interests, lovers, and friends online. Explore conscious sexuality and divine relationships.</p>
+    <p>Swipe with intention! Sexy Awakening is Earth's first conscious sexuality and relationship portal. It's best way to meet new romantic interests, lovers, and friends online. Explore conscious sexuality and divine relationships!</p>
     <h2>Swipe with Intention</h2>
     <p>Swipe right for sex, up for romance, left for friendship, and down to pass. If someone swipes on you with the same intention you are connected and can <b>begin chatting with a mutual understanding</b>. Enjoy higher consciousness, a culture of consent, and intentional connections on Sexy Awakening.</p>
     <h2>About Us</h2>
