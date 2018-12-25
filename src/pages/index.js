@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <p>Sexy Awakening is Earth's first conscious sexuality and relationship portal.</p>
+    <p>Swipe with intention! Sexy Awakening is Earth's first conscious sexuality and relationship portal. It's best way to meet new romantic interests, lovers, and friends online. Explore conscious sexuality and divine relationships.</p>
     <h2>Swipe with Intention</h2>
     <p>Swipe right for sex, up for romance, left for friendship, and down to pass. If someone swipes on you with the same intention you are connected and can <b>begin chatting with a mutual understanding</b>. Enjoy higher consciousness, a culture of consent, and intentional connections on Sexy Awakening.</p>
     <h2>About Us</h2>
@@ -11,7 +11,7 @@ const IndexPage = () => (
     <h2>Membership</h2>
     <p>Sexy Awakening is <b>free to join</b>. Unlimited memberships will be available soon for $11 per month. You must be 18 or older to create an account.</p>
     <h2>How to Join</h2>
-    <p>Sexy Awakening is in Open Beta: iPhone users download the app through <a href="https://testflight.apple.com/join/A52QNb4b">Test Flight</a>. Android users can download the App in the <a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store.</a></p>
+    <p>iPhone users download the app <a href="https://testflight.apple.com/join/A52QNb4b">here</a>. Android users can download the App in the <a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store.</a></p>
     <p>Available for iOS, Android, and soon the web.</p>
     <h2>Conscious Culture</h2>
     <p>Sexy Awakening encourages a culture of immediacy, sexuality, play, exploration, intuition, and transformation, grounded in a deeply rooted sense of autonomy, respect, and consent.</p>
