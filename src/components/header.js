@@ -26,7 +26,7 @@ const Header = ({ siteTitle }, { tagLine }) => (
           }}
         >
           <img src={logo} width="100" height="100" />
-          {siteTitle}
+          {siteTitle} {tagLine}
         </Link>
       </h1>
       <h3>{tagLine}</h3>
