@@ -29,7 +29,16 @@ const Header = ({ siteTitle }, { tagLine }) => (
           {siteTitle} {tagLine}
         </Link>
       </h1>
-      <h3>{tagLine}</h3>
+      <h4 style={{color: '#e54560',
+                textDecoration: 'none', 
+                margin: 0, 
+                display:'flex', 
+                alignContent:'center', 
+                alignItems: 'center', 
+                justifyContent:'space-around', 
+                flexDirection:'row' }} >
+                &nbsp;&nbsp;SWIPE WITH INTENTION
+      </h4>
     </div>
   </div>
 )
