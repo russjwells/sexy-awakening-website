@@ -15,8 +15,10 @@ const IndexPage = () => (
     <h2>Conscious Culture</h2>
     <p>Sexy Awakening encourages a culture of immediacy, sexuality, play, exploration, intuition, and transformation, grounded in a deeply rooted sense of autonomy, respect, and consent.</p>
     <p>Please take a look at our <Link to="/guidelines/">guidelines</Link> before connecting.</p>
+    <h2>Support via Patreon</h2>
+    <p>Sexy Awakening is independently run and self-funded. We are accepting financial support for Sexy Awakening's initial development and launch. If you'd like to support us before memberships are live then <a href="https://www.patreon.com/sexyawakening">become our Patron on Patreon</a>. Sexy Awakening is independently run and self-funded. Your financial support helps keep Sexy Awakening soverign and free of influence from corporate interests.</p>
     <h2>Coming Soon</h2>
-    <p>We are adding more features to make Sexy Awakening even more potent, activating, empowering, revolutionary, and safe. See what's <Link to="/coming-soon/">brewing</Link>.</p>
+    <p>We are adding more features to make Sexy Awakening even more, activating, empowering, evolutionary, and safe. See what's <Link to="/coming-soon/">brewing</Link>.</p>
   </div>
 )
 
